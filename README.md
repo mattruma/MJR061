@@ -7,7 +7,7 @@ This repository contains code samples for the following Triggers and bindings.
 
 Azure Functions integrates with Azure Storage via triggers and bindings. Integrating with Blob storage allows you to build functions that react to changes in blob data as well as read and write values.
 
-[FunctionApp1](FunctionApp1) contains examples on how to work with Blob Storage with Azure Functions.
+[FunctionApp1](/FunctionApp1) contains examples on how to work with Blob Storage with Azure Functions.
 
 ### Related Articles
 
