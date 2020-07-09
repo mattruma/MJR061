@@ -4,6 +4,7 @@
 # Azure Functions localsettings file
 local.settings.json
 *.Development.json
+Parameters.json
 
 # User-specific files
 *.suo
